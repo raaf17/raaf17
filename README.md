@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! 👋 I'm Rafi.
 
-<!--
-**raaf17/raaf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer who enjoys creating and sharing projects related to web technology! I really enjoy my profession because it allows me to create new things.
 
-Here are some ideas to get you started:
+Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently, I am learning about back-end applications.
+📫 You can reach me at raafimuhammadd123@gmail.com.
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/raaf17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raaf17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raaf17&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://instagram.com/mraafii17">Instagram</a>
