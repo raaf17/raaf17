@@ -4,7 +4,7 @@ I am a Web Developer who enjoys creating and sharing projects related to web tec
 
 Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
-- 🌱 I’m currently learning **JavaScript Library and Framework**
+- 🌱 I’m currently learning **Backend Application**
 
 - 💬 Ask me about **Web Development**
 
