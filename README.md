@@ -4,8 +4,13 @@ I am a Web Developer who enjoys creating and sharing projects related to web tec
 
 Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
-🌱 Currently, I am learning about back-end applications.
-📫 You can reach me at raafimuhammadd123@gmail.com.
+- 🌱 I’m currently learning **JavaScript Library and Framework**
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **raafimuhammadd123@gmail.com**
+
+- ⚡ Fun fact **I think I am a passionate learner and competent.**
 
 <h3>🛠 Tech Stack</h3>
 <ul>
