@@ -6,6 +6,14 @@ Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
 🌱 Currently, I am learning about back-end applications.
 📫 You can reach me at raafimuhammadd123@gmail.com.
+
+<h3>🛠 Tech Stack</h3>
+<ul>
+  <li>🌐 &nbsp; HTML | CSS | Javascript | Boostrap | PHP | Codeigniter | Laravel</li>
+  <li>🛢 &nbsp; MySQL | Laragon</li>
+  <li>🔧 &nbsp; Visual Studio Code | Git</li>
+  <li>🖥 &nbsp; Figma</li>
+</ul>
   
 ### Github Statistic
 <p align="left">
