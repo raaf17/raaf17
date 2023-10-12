@@ -20,11 +20,11 @@ Currently, I am a student at SMK in Boyolangu, Tulungagung.
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)\
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   
 ### Github Statistic
