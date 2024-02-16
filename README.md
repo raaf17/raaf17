@@ -23,6 +23,7 @@ Currently, I am a student at SMK in Boyolangu, Tulungagung.
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mongodb)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
