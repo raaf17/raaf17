@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Rafi.
 
-I am a Web Developer who enjoys creating and sharing projects related to web technology! I really enjoy my profession because it allows me to create new things.
+I am a Fullstack Web Developer who enjoys creating and sharing projects related to web technology! I really enjoy my profession because it allows me to create new things.
 
 Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
