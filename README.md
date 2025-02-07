@@ -40,5 +40,5 @@ Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
 <p>
 <a href="https://www.linkedin.com/in/muhammad-raafii/"><img src="https://img.shields.io/badge/-Muhammad%20Rafi-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rraafi06@gmail.com"><img src="https://img.shields.io/badge/-raafimuhammadd123@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto://rraafi06@gmail.com"><img src="https://img.shields.io/badge/-raafimuhammadd123@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
