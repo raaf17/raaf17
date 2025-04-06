@@ -8,7 +8,7 @@ Currently, I am a student at SMK in Boyolangu, Tulungagung.
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **raafimuhammadd123@gmail.com**
+- 📫 How to reach me **rraafi06@gmail.com**
 
 - ⚡ Fun fact **I think I am a passionate learner and competent.**
 
