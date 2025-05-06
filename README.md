@@ -18,7 +18,6 @@ Currently, I am a student at SMK in Boyolangu, Tulungagung.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=nextjs)
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
