@@ -2,10 +2,6 @@
 
 I am a Fullstack Web Developer who enjoys creating and sharing projects related to web technology! I really enjoy my profession because it allows me to create new things.
 
-Currently, I am a student at SMK in Boyolangu, Tulungagung.
-
-- 🌱 I’m currently learning **Backend Application**
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rraafi06@gmail.com**
